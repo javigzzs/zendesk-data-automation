@@ -87,7 +87,9 @@ Example:
 
 ```bash
 pip install pandas requests pdfplumber
+```
 
+---
 ⚠️ Disclaimer
 
 These scripts are shared as examples of real-world automation and data workflows.
