@@ -6,7 +6,7 @@ The focus is on practical, real-world use cases using Zendesk Sell, including bu
 
 ---
 
-## 🚀 Projects Included
+## Projects Included
 
 ### 1. Bulk Task Creator
 Creates tasks in bulk in Zendesk Sell from a CSV file with contact IDs.
@@ -63,7 +63,7 @@ Automates manual data extraction from documents, enabling faster reporting and r
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python  
 - pandas  
@@ -73,7 +73,7 @@ Automates manual data extraction from documents, enabling faster reporting and r
 
 ---
 
-## ⚙️ How to Use
+## How to Use
 
 These scripts were originally built for internal use, so some configurations are local.
 
@@ -90,7 +90,7 @@ pip install pandas requests pdfplumber
 ```
 
 ---
-## ⚠️ Disclaimer
+## Disclaimer
 
 These scripts are shared as examples of real-world automation and data workflows.
 
@@ -102,7 +102,7 @@ Data structure
 
 Parts of the implementation were assisted by AI tools and later adapted for practical business use.
 
-## 🎯 Purpose of this Repository
+## Purpose of this Repository
 
 I created this repository to showcase how I approach:
 
@@ -110,7 +110,7 @@ Automating repetitive business processes
 Working with APIs and structured data
 Cleaning and transforming data for analysis
 Building practical solutions that improve efficiency
-## 📌 Final Note
+## Final Note
 
 This is not a theoretical or academic project.
 
