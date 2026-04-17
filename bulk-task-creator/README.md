@@ -37,3 +37,21 @@ contact_id
 123456789
 987654321
 456789123
+```
+
+Configuration
+
+Before running the script, update:
+
+- API_TOKEN
+- CSV_PATH
+- OWNER_ID
+- DUE_DATE
+- TASK_CONTENT
+- Notes
+
+This script was originally built for internal operational use, so it relies on local configuration such as file paths and API credentials.
+
+Why I included this project
+
+This project shows practical business automation with Python, API integration, and workflow execution based on structured data.
