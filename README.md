@@ -96,9 +96,9 @@ These scripts are shared as examples of real-world automation and data workflows
 
 They may require adjustments depending on:
 
-Zendesk Sell configuration
-Custom fields
-Data structure
+- Zendesk Sell configuration
+- Custom fields
+- Data structure
 
 Parts of the implementation were assisted by AI tools and later adapted for practical business use.
 
@@ -106,12 +106,7 @@ Parts of the implementation were assisted by AI tools and later adapted for prac
 
 I created this repository to showcase how I approach:
 
-Automating repetitive business processes
-Working with APIs and structured data
-Cleaning and transforming data for analysis
-Building practical solutions that improve efficiency
-## Final Note
-
-This is not a theoretical or academic project.
-
-All scripts were built to solve real operational problems and support decision-making through better data availability.
+- Automating repetitive business processes
+- Working with APIs and structured data
+- Cleaning and transforming data for analysis
+- Building practical solutions that improve efficiency
