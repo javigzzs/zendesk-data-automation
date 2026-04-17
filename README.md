@@ -90,7 +90,7 @@ pip install pandas requests pdfplumber
 ```
 
 ---
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 These scripts are shared as examples of real-world automation and data workflows.
 
@@ -102,7 +102,7 @@ Data structure
 
 Parts of the implementation were assisted by AI tools and later adapted for practical business use.
 
-🎯 Purpose of this Repository
+## 🎯 Purpose of this Repository
 
 I created this repository to showcase how I approach:
 
@@ -110,7 +110,7 @@ Automating repetitive business processes
 Working with APIs and structured data
 Cleaning and transforming data for analysis
 Building practical solutions that improve efficiency
-📌 Final Note
+## 📌 Final Note
 
 This is not a theoretical or academic project.
 
